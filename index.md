@@ -4,9 +4,9 @@ title: A Hyun Kim's CV
 ---
 # A Hyun (Annie) Kim
 PhD student, Computational Biology.
-<div id="aninifer.github.io/cv">
-<a href="ahk60@pitt.edu">ahk60@pitt.edu</a>
-| <a href="ahyunk@cmu.edu">ahyunk@cmu.edu</a>
+
+<div id="webaddress">
+<a href="ahk60@pitt.edu">ahk60@pitt.edu</a> | <a href="ahyunk@cmu.edu">ahyunk@cmu.edu</a>
 </div>
 
 ## Education
@@ -33,11 +33,11 @@ Johns Hopkins University, *International Student Scholarship*
 
 - Awarded to 10% of international undergraduate students based on academic merit, covering 2/3 of tuition in all enrolled semesters.
 
-`Spring 2019, 
-Fall 2020, 
-Spring 2021, 
-Fall 2021, 
-Spring 2022`
+`Spring 2019,`
+`Fall 2020,`
+`Spring 2021,`
+`Fall 2021,`
+`Spring 2022`
 Johns Hopkins University, *Dean's List*
 
 - Awarded to students earning a GPA of 3.5 and above in a program of minimum 14 credits with at least 12 graded credits.
