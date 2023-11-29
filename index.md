@@ -11,13 +11,13 @@ PhD student, Computational Biology.
 
 ## Education
 
-`Aug 2022-now`
+`Aug 2022 - now`
 __University of Pittsburgh__, School of Medicine, Pittsburgh, PA
 
 Ph.D., ***Computational Biology (CPCB)***
 - *Relevant Coursework*: Intro to Machine Learning 10-701 (A, Pradeep Ravikumar); Computational Structural Biology (A+, David Koes); Cellular and Systems Modelling (A+, James Faeder); Computational Genomics (A, Jian Ma)
 
-`Aug 2018-May 2022`
+`Aug 2018 - May 2022`
 __Johns Hopkins University__, Krieger School of Arts and Science, Baltimore, MD
 
 Bachelor of Arts, ***Biophysics***
@@ -30,12 +30,12 @@ Bachelor of Arts, ***Mathematics***
 
 ## Awards
 
-`Aug 2018-May 2022`
+`Aug 2018 - May 2022`
 Johns Hopkins University, *International Student Scholarship*
 
 - Awarded to 10% of international undergraduate students based on academic merit, covering 2/3 of tuition in all enrolled semesters.
 
-`Jan 2019-May 2022,`
+`Jan 2019 - May 2022`
 Johns Hopkins University, *Dean's List*
 
 - Awarded to students earning a GPA of 3.5 and above in a program of minimum 14 credits with at least 12 graded credits.
@@ -44,7 +44,7 @@ Johns Hopkins University, *Dean's List*
 
 ## Research Experience
 
-`Aug 2018-Now`
+`Aug 2018 - Now`
 Robin E. C. Lee Lab, ***Grad Student Researcher***, University of Pittsburgh
 
 - *Motion analysis of IKK puncta*
@@ -53,7 +53,7 @@ Robin E. C. Lee Lab, ***Grad Student Researcher***, University of Pittsburgh
   * Developed code to analyze the motion of IKK puncta from their trajectory information.
   * Wrote a simulation that generates PSF and applies simple diffusion to the generated spots.
 
-`Aug 2021-May 2022`
+`Aug 2021 - May 2022`
 Camley Group, ***Undergrad Research Assistant***, Johns Hopkins University
 
 - *Studying the limits of cell galvanotaxis*
@@ -61,8 +61,7 @@ Camley Group, ***Undergrad Research Assistant***, Johns Hopkins University
   * Computed the Fisher information matrix to determine the Cramér-Rao bound on the variance of the electric field estimator.
   * Wrote MATLAB simulation scripts to verify the model.
 
-`Aug 2019-Mar 2020,
-Aug 2021-May 2022`
+`Aug 2019 - May 2022`
 Kaiser Lab, ***Undergrad Research Assistant***, Johns Hopkins University
 
 - *Characterizing the co-translational folding of SelB with single-molecule optical tweezers*
@@ -78,28 +77,27 @@ Kaiser Lab, ***Undergrad Research Assistant***, Johns Hopkins University
 
 ## Teaching Experience
 
-`Aug 2023-Dec 2023`
+`Aug 2023 - Dec 2023`
 Cellular and Systems Modelling, ***Teaching Assistant***, UPitt CSB Department
 
 - *Course description*: Graduate-level introduction into mathematical modelling and anlysis of biological systems on the cellular level.
 
-`Jan 2019-May 2022`
+`Jan 2019 - May 2022`
 Introduction to Computing, ***Teaching Assistant***, JHU Biophysics Department
 
 - *Course description*: Introductory-level course teaching Unix, Python, and MATLAB. 
 
-`Jan 2022-May 2022`
+`Jan 2022 - May 2022`
 Resilience of Ecological Systems, ***Teaching Assistant***, JHU Environmental Studies
 
 - *Course description*: Using mathematical modelling to study the stability features of an ecological system.
 
-`Jan 2022-May 2022`
+`Jan 2022 - May 2022`
 Science & Film, ***Teaching Assistant***, JHU Biophysics Department
 
 - *Course description*: Understanding science through film.
 
-`Aug 2020-Dec 2020,
-Aug 2021-May 2022`
+`Aug 2020 - May 2022`
 Calculus III / Linear Algebra, ***PILOT Leader***, JHU Mathematics Department
 
 - Organized and led weekly study sessions for a group of students in the specified course. 
@@ -108,7 +106,7 @@ Calculus III / Linear Algebra, ***PILOT Leader***, JHU Mathematics Department
 
 ## Related Experience
 
-`Aug 2023-now`
+`Aug 2023 - now`
 Graduate Student Association, ***Senator***, UPitt CPCB Program
 
 - Organized Womxn's lunches to promote the presence of womxn in computational programs, and to provide a space for womxn to share their experiences working in STEM. 
@@ -123,28 +121,6 @@ MATLAB; Python; Unix; Mathematica; Java; C++; C; PyMOL; Microsoft Office Suite
 
 'Wet Laboratory'
 Cell culture; Deconvolution imaging; Microfluidic device construction; Genetic engineering and PCR cloning; In-vitro transcription and translation; Purification by centrifugation; Spectrophotometer; Spectrofluorometer; SDS-PAGE imaging and extraction; Single molecule C-Trap optical tweezers; Refractometer
-
-
-## Publications
-
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
-
-### Journals
-
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
-
-
 
 
 <!-- ### Footer
