@@ -1,9 +1,9 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: A Hyun Kim's CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# A Hyun (Annie) Kim
+PhD student, Computational Biology.
 
 <div id="webaddress">
 <a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
