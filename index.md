@@ -4,7 +4,6 @@ title: A Hyun Kim's CV
 ---
 # A Hyun (Annie) Kim
 PhD student, Computational Biology.
-
 <div id="aninifer.github.io/cv">
 <a href="ahk60@pitt.edu">ahk60@pitt.edu</a>
 | <a href="ahyunk@cmu.edu">ahyunk@cmu.edu</a>
