@@ -15,7 +15,7 @@ PhD student, Computational Biology.
 `Aug 2022-now`
 __University of Pittsburgh__, School of Medicine, Pittsburgh, PA
 
-- Ph.D., ***Computational Biology (CPCB)***
+Ph.D., ***Computational Biology (CPCB)***
 
 - *Relevant Coursework*: Intro to Machine Learning 10-701 (A, Pradeep Ravikumar); Computational Structural Biology (A+, David Koes); Cellular and Systems Modelling (A+, James Faeder); Computational Genomics (A, Jian Ma)
 
