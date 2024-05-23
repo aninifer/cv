@@ -14,8 +14,8 @@ PhD student, Computational Biology.
 `Aug 2022 - now`
 __University of Pittsburgh__, School of Medicine, Pittsburgh, PA
 
-Ph.D., ***Computational Biology (CPCB)***
-- *Relevant Coursework*: Intro to Machine Learning 10-701 (A, Pradeep Ravikumar); Computational Structural Biology (A+, David Koes); Cellular and Systems Modelling (A+, James Faeder); Computational Genomics (A, Jian Ma)
+Ph.D., ***Computational Biology (CPCB)***, (Expected 2027)
+- *Relevant Coursework*: Intro to Machine Learning 10-701 (A, Pradeep Ravikumar); Scalable Machine Learning (A, David Koes); Biomedical Microfluidics (A, Ioannis Zervantonakis); Computational Structural Biology (A+, David Koes); Cellular and Systems Modelling (A+, James Faeder); Computational Genomics (A, Jian Ma)
 
 `Aug 2018 - May 2022`
 __Johns Hopkins University__, Krieger School of Arts and Science, Baltimore, MD
@@ -122,6 +122,12 @@ MATLAB; Python; Unix; Mathematica; Java; C++; C; PyMOL; Microsoft Office Suite
 'Wet Laboratory'
 Cell culture; Deconvolution imaging; Microfluidic device construction; Genetic engineering and PCR cloning; In-vitro transcription and translation; Purification by centrifugation; Spectrophotometer; Spectrofluorometer; SDS-PAGE imaging and extraction; Single molecule C-Trap optical tweezers; Refractometer
 
+## Publications
+
+### Journals
+
+`2023`
+Nwogbaga, Ifunanya, et al. "Physical limits on galvanotaxis." *Physical Review E*, 108. DOI: https://doi.org/10.1103/PhysRevE.108.064411
 
 <!-- ### Footer
 
