@@ -16,7 +16,7 @@ PhD student, Computational Biology.
 __University of Pittsburgh__, School of Medicine, Pittsburgh, PA
 
 - Ph.D., ***Computational Biology (CPCB)***
-- *Relevant Coursework*: Intro to Machine Learning 10-701 (A, Pradeep Ravikumar); Scalable Machine Learning (A, David Koes); Biomedical Microfluidics (A, Ioannis Zervantonakis); Computational Structural Biology (A+, David Koes); Cellular and Systems Modelling (A+, James Faeder); Computational Genomics (A, Jian Ma)
+- *Relevant Coursework*: Intro to Machine Learning 10-701 (A, Pradeep Ravikumar); Scalable Machine Learning (A, David Koes); Biomedical Microfluidics (A-, Ioannis Zervantonakis); Computational Structural Biology (A+, David Koes); Cellular and Systems Modelling (A+, James Faeder); Computational Genomics (A, Jian Ma)
 
 `Aug 2018 - May 2022`
 __Johns Hopkins University__, Krieger School of Arts and Science, Baltimore, MD
