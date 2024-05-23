@@ -117,10 +117,10 @@ Graduate Student Association, ***Senator***, UPitt CPCB Program
 
 ## Technical Skills
 
-***Computational***
+### Computational
 MATLAB; Python; Unix; Mathematica; Java; C++; C; PyMOL; Microsoft Office Suite
 
-***Wet Laboratory***
+### Wet Laboratory
 Cell culture; Deconvolution imaging; Microfluidic device construction; Genetic engineering and PCR cloning; In-vitro transcription and translation; Purification by centrifugation; Spectrophotometer; Spectrofluorometer; SDS-PAGE imaging and extraction; Single molecule C-Trap optical tweezers; Refractometer
 
 
