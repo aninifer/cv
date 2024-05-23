@@ -15,16 +15,16 @@ PhD student, Computational Biology.
 `Aug 2022 - now`
 __University of Pittsburgh__, School of Medicine, Pittsburgh, PA
 
-- Ph.D., ***Computational Biology (CPCB)***, (Expected 2027)
+Ph.D., ***Computational Biology (CPCB)***, (Expected 2027)
 - *Relevant Coursework*: Intro to Machine Learning 10-701 (A, Pradeep Ravikumar); Scalable Machine Learning (A, David Koes); Biomedical Microfluidics (A, Ioannis Zervantonakis); Computational Structural Biology (A+, David Koes); Cellular and Systems Modelling (A+, James Faeder); Computational Genomics (A, Jian Ma)
 
 `Aug 2018 - May 2022`
 __Johns Hopkins University__, Krieger School of Arts and Science, Baltimore, MD
 
-- Bachelor of Arts, ***Biophysics***
+Bachelor of Arts, ***Biophysics***
 - *Relevant Coursework*: Molecular Biophysics Lab (A, Aaron Robinson); Physics of Cell Biology (A, Brian Camley); Modelling the Living Cell (A, Margaret Johnson); Spectroscopy (A, Juliette Lecomte); Biological Physics (A, Francesca Serra)
 
-- Bachelor of Arts, ***Mathematics***
+Bachelor of Arts, ***Mathematics***
 - *Relevant Coursework*: Elementary Number Theory (A, Nitu Kitchloo); Abstract Algebra (A, Aurelian Sagnier); Introduction to Topology (A, Aurelian Sagnier); Method of Complex Analysis (S*, Yi Wang); Data Structures (A, Ali Madooei); Intermediate Programming (S*, Dave Hovemeyer); Probability and Statistics (A+, Sergey Kushnarev); Mathematical Biology (A) 
 
 
