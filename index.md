@@ -12,7 +12,7 @@ PhD student, Computational Biology.
 ## Education
 
 `Aug 2022 - now`
-__University of Pittsburgh__, School of Medicine, Pittsburgh, PA
+__Carnegie Mellon University and University of Pittsburgh__, School of Medicine, Pittsburgh, PA
 
 Ph.D., ***Computational Biology (CPCB)***, (Expected 2027)
 - *Relevant Coursework*: Intro to Machine Learning 10-701 (A, Pradeep Ravikumar); Scalable Machine Learning (A, David Koes); Biomedical Microfluidics (A, Ioannis Zervantonakis); Computational Structural Biology (A+, David Koes); Cellular and Systems Modelling (A+, James Faeder); Computational Genomics (A, Jian Ma)
@@ -107,7 +107,7 @@ Calculus III / Linear Algebra, ***PILOT Leader***, JHU Mathematics Department
 ## Related Experience
 
 `Aug 2023 - now`
-Graduate Student Association, ***Senator***, UPitt CPCB Program
+Graduate Student Association, ***Senator***, CMU-UPitt CPCB Program
 
 - Organized Womxn's lunches to promote the presence of womxn in computational programs, and to provide a space for womxn to share their experiences working in STEM. 
 - Organized monthly events to encourage community engagement and program-wide bonding.
